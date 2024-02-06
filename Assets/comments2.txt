@@ -1,7 +1,0 @@
-# Get user's choice
-
-# Get computer's choice
-
-# Determine the winner
-
-# Main game loop
