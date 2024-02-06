@@ -1,0 +1,41 @@
+# Import the random module to generate random choices for the computer
+
+# Function to get the user's choice
+    # Prompt the user to enter their choice
+    # Return the user's choice
+
+# Function to get the computer's choice
+    # Define the possible choices
+    # Let the computer make a random choice
+    # Return the computer's choice
+
+# Main function to determine the winner
+    # Initialize scores for user and computer
+    # Check if both choices are the same
+    # Check if the user chose rock
+        # Check if the computer chose paper
+            # Increase the computer's score
+        # Increase the user's score
+    # Check if the user chose paper
+        # Check if the computer chose scissors
+            # Increase the computer's score
+        # Increase the user's score
+    # Check if the user chose scissors
+        # Check if the computer chose rock
+            # Increase the computer's score
+        # Increase the user's score
+    # Print the current scores
+    # Return the scores
+
+# Check if this script is the main program
+    # Initialize the play again variable
+    # Keep playing as long as the user wants to play again
+        # Initialize the round wins for user and computer
+        # Keep playing rounds until someone wins 2 rounds
+            # Get the user's and computer's choices
+            # Print the computer's choice
+            # Get the scores for this round
+            # Update the round wins based on the scores
+            # Print the round scores
+        # Check who won the game
+        # Ask the user if they want to play again
